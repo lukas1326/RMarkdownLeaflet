@@ -1,0 +1,290 @@
+category,indicator,indicator_friendly,type_data,latitude,longitude,region_id,country_id,name,year,value
+#meta+category,#indicator+name,#indicator+description,#indicator+type,#geo+lat,#geo+lon,#region+code,#country+code+v_iso2,#country+name,#date+year,#indicator+value
+Slum dwellers,composting_toilet,Access to composting toilet,p,49,32,89,UA,Ukraine,2007,0.5
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,48.000002,37.82998,89,UA,Donetsk,2000,-0.61
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,48.000002,37.82998,89,UA,Donetsk,2010,-0.64
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,49.999983,36.250025,89,UA,Kharkiv,2000,-0.21
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,49.999983,36.250025,89,UA,Kharkiv,2010,-0.15
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,47.857297,35.176809,89,UA,Zaporizhzhya,2000,-0.59
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,47.857297,35.176809,89,UA,Zaporizhzhya,2010,-0.56
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,50.433367,30.516628,89,UA,Kiev,2000,0.73
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,50.433367,30.516628,89,UA,Kiev,2010,0.48
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,49,32,89,UA,Ukraine,1985,0.63
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,49,32,89,UA,Ukraine,1955,2.46
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,49,32,89,UA,Ukraine,2020,0.4
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,49,32,89,UA,Ukraine,1990,0.06
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,49,32,89,UA,Ukraine,1960,1.58
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,49,32,89,UA,Ukraine,2025,0.48
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,49,32,89,UA,Ukraine,1995,0.06
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,49,32,89,UA,Ukraine,1965,1.59
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,49,32,89,UA,Ukraine,2030,0.5
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,49,32,89,UA,Ukraine,2000,0.19
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,49,32,89,UA,Ukraine,1970,1.26
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,49,32,89,UA,Ukraine,2035,0.47
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,49,32,89,UA,Ukraine,2005,0.09
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,49,32,89,UA,Ukraine,1975,1.1
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,49,32,89,UA,Ukraine,2040,0.43
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,49,32,89,UA,Ukraine,2010,0.2
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,49,32,89,UA,Ukraine,1980,0.95
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,49,32,89,UA,Ukraine,2045,0.4
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,49,32,89,UA,Ukraine,1950,3.06
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,49,32,89,UA,Ukraine,2015,0.31
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,46.490016,30.710001,89,UA,Odessa,2000,-0.27
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,46.490016,30.710001,89,UA,Odessa,2010,0.24
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,48.479972,35.000024,89,UA,Dnipropetrovsk,2000,-0.71
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,48.479972,35.000024,89,UA,Dnipropetrovsk,2010,-0.94
+Crime,recorded_theft_rate,Recorded theft rate per 100,000 population,n,49,32,89,UA,Ukraine,2000,357.58
+Crime,recorded_theft_rate,Recorded theft rate per 100,000 population,n,49,32,89,UA,Ukraine,1999,351.58
+Transport,goods_hauled_by_road,Goods hauled by road (million ton/km),n,49,32,89,UA,Ukraine,2000,23895
+Slum dwellers,protected_well,Access to protected well,p,49,32,89,UA,Ukraine,2005,1.3
+Slum dwellers,protected_well,Access to protected well,p,49,32,89,UA,Ukraine,2007,7.8
+Transport,passengers_carried_by_railway,Passengers carried by railway (million passengers/km),n,49,32,89,UA,Ukraine,2000,51726
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,49,32,89,UA,Ukraine,1985,4
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,49,32,89,UA,Ukraine,1955,5
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,49,32,89,UA,Ukraine,2020,6
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,49,32,89,UA,Ukraine,1990,5
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,49,32,89,UA,Ukraine,1960,4
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,49,32,89,UA,Ukraine,2025,6
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,49,32,89,UA,Ukraine,1995,5
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,49,32,89,UA,Ukraine,1965,4
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,49,32,89,UA,Ukraine,2000,4
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,49,32,89,UA,Ukraine,1970,6
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,49,32,89,UA,Ukraine,2005,5
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,49,32,89,UA,Ukraine,1975,6
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,49,32,89,UA,Ukraine,2010,6
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,49,32,89,UA,Ukraine,1980,4
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,49,32,89,UA,Ukraine,1950,5
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,49,32,89,UA,Ukraine,2015,6
+Population,pop_urban_percentage,Percentage of national population living in urban areas,p,49,32,89,UA,Ukraine,2007,67.9
+Crime,recorded_assault_rate,Recorded assault rate per 100,000 population,n,49,32,89,UA,Ukraine,2000,10.63
+Crime,recorded_assault_rate,Recorded assault rate per 100,000 population,n,49,32,89,UA,Ukraine,1999,9.65
+City prosperity,cpi_environment_index,Environmental Sustainability index,p,50.433367,30.516628,89,UA,Kiev,2012,0.874
+Streets,percentage_of_roads,Percentage of roads measured in length,p,49,32,89,UA,Ukraine,2000,97.4
+Slum dwellers,connection_to_electricity,Connection to electricity,p,49,32,89,UA,Ukraine,2007,99.9
+Slum dwellers,improved_pit_latrine,Access to improved pit latrine,p,49,32,89,UA,Ukraine,2005,0.1
+Transport,total_number_of_motor_vehicles,Total number of motor vehicles (per 1000 population),n,49,32,89,UA,Ukraine,2003,137
+Transport,total_number_of_motor_vehicles,Total number of motor vehicles (per 1000 population),n,49,32,89,UA,Ukraine,1990,63
+Slum dwellers,piped_water,Access to piped water,p,49,32,89,UA,Ukraine,2005,90.5
+Slum dwellers,piped_water,Access to piped water,p,49,32,89,UA,Ukraine,2007,80.1
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,49,32,89,UA,Ukraine,1985,69.52
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,49,32,89,UA,Ukraine,1955,77.74
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,49,32,89,UA,Ukraine,2020,65.77
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,49,32,89,UA,Ukraine,1990,68.36
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,49,32,89,UA,Ukraine,1960,78.87
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,49,32,89,UA,Ukraine,2025,64.93
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,49,32,89,UA,Ukraine,1995,68.75
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,49,32,89,UA,Ukraine,1965,76.48
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,49,32,89,UA,Ukraine,2000,69.59
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,49,32,89,UA,Ukraine,1970,71.69
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,49,32,89,UA,Ukraine,2005,68.77
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,49,32,89,UA,Ukraine,1975,71.45
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,49,32,89,UA,Ukraine,2010,67.63
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,49,32,89,UA,Ukraine,1980,69.3
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,49,32,89,UA,Ukraine,1950,75.63
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,49,32,89,UA,Ukraine,2015,66.64
+City prosperity,cpi_4_dimensions,City Prosperity Index with 4 dimensions,p,50.433367,30.516628,89,UA,Kiev,2012,0.781
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,49,32,89,UA,Ukraine,1985,7246
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,49,32,89,UA,Ukraine,2020,5269
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,49,32,89,UA,Ukraine,1990,7511
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,49,32,89,UA,Ukraine,1960,1163
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,49,32,89,UA,Ukraine,2025,5269
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,49,32,89,UA,Ukraine,1995,7368
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,49,32,89,UA,Ukraine,1965,2483
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,49,32,89,UA,Ukraine,2000,7230
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,49,32,89,UA,Ukraine,1970,2888
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,49,32,89,UA,Ukraine,2005,6195
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,49,32,89,UA,Ukraine,1975,3278
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,49,32,89,UA,Ukraine,2010,5251
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,49,32,89,UA,Ukraine,1980,6836
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,49,32,89,UA,Ukraine,2015,5268
+Slum dwellers,improved_water_sustainable_access_countries,Proportion of population with sustainable access to an improved water source – Countries,p,49,32,89,UA,Ukraine,2007,99.4
+Slum dwellers,improved_floor,Access to improved flooring,p,49,32,89,UA,Ukraine,2005,83.5
+Slum dwellers,improved_floor,Access to improved flooring,p,49,32,89,UA,Ukraine,2007,71.6
+Slum dwellers,pit_latrine_without_slab,Access to pit latrine without slab,p,49,32,89,UA,Ukraine,2005,0.1
+Slum dwellers,pit_latrine_without_slab,Access to pit latrine without slab,p,49,32,89,UA,Ukraine,2007,0.7
+Slum dwellers,pit_latrine_with_slab_or_covered_latrine,Access to slab or covered pit latrine,p,49,32,89,UA,Ukraine,2005,2.2
+Slum dwellers,pit_latrine_with_slab_or_covered_latrine,Access to slab or covered pit latrine,p,49,32,89,UA,Ukraine,2007,19.9
+Slum dwellers,urban_population_percentage_500k_1m,Percentage of urban population (by country) – 500 000 to 1 million inhabitants,p,49,32,89,UA,Ukraine,1955,22.26
+Slum dwellers,urban_population_percentage_500k_1m,Percentage of urban population (by country) – 500 000 to 1 million inhabitants,p,49,32,89,UA,Ukraine,2020,16.14
+Slum dwellers,urban_population_percentage_500k_1m,Percentage of urban population (by country) – 500 000 to 1 million inhabitants,p,49,32,89,UA,Ukraine,1960,15.32
+Slum dwellers,urban_population_percentage_500k_1m,Percentage of urban population (by country) – 500 000 to 1 million inhabitants,p,49,32,89,UA,Ukraine,2025,16.53
+Slum dwellers,urban_population_percentage_500k_1m,Percentage of urban population (by country) – 500 000 to 1 million inhabitants,p,49,32,89,UA,Ukraine,1970,17.18
+Slum dwellers,urban_population_percentage_500k_1m,Percentage of urban population (by country) – 500 000 to 1 million inhabitants,p,49,32,89,UA,Ukraine,1950,24.37
+Slum dwellers,urban_population_percentage_500k_1m,Percentage of urban population (by country) – 500 000 to 1 million inhabitants,p,49,32,89,UA,Ukraine,2015,15.73
+Population,urban_population_countries,Urban population – Countries,1000,49,32,89,UA,Ukraine,2050,24710
+Population,urban_population_countries,Urban population – Countries,1000,49,32,89,UA,Ukraine,1950,13241
+Population,urban_population_countries,Urban population – Countries,1000,49,32,89,UA,Ukraine,1955,16590
+Population,urban_population_countries,Urban population – Countries,1000,49,32,89,UA,Ukraine,1960,20019
+Population,urban_population_countries,Urban population – Countries,1000,49,32,89,UA,Ukraine,1965,22965
+Population,urban_population_countries,Urban population – Countries,1000,49,32,89,UA,Ukraine,1970,25944
+Population,urban_population_countries,Urban population – Countries,1000,49,32,89,UA,Ukraine,1975,28620
+Population,urban_population_countries,Urban population – Countries,1000,49,32,89,UA,Ukraine,1980,30873
+Population,urban_population_countries,Urban population – Countries,1000,49,32,89,UA,Ukraine,1985,32915
+Population,urban_population_countries,Urban population – Countries,1000,49,32,89,UA,Ukraine,1990,34404
+Population,urban_population_countries,Urban population – Countries,1000,49,32,89,UA,Ukraine,1995,34156
+Population,urban_population_countries,Urban population – Countries,1000,49,32,89,UA,Ukraine,2000,32803
+Population,urban_population_countries,Urban population – Countries,1000,49,32,89,UA,Ukraine,2005,31805
+Population,urban_population_countries,Urban population – Countries,1000,49,32,89,UA,Ukraine,2007,31365
+Population,urban_population_countries,Urban population – Countries,1000,49,32,89,UA,Ukraine,2010,30766
+Population,urban_population_countries,Urban population – Countries,1000,49,32,89,UA,Ukraine,2015,29879
+Population,urban_population_countries,Urban population – Countries,1000,49,32,89,UA,Ukraine,2020,29116
+Population,urban_population_countries,Urban population – Countries,1000,49,32,89,UA,Ukraine,2025,28418
+Population,urban_population_countries,Urban population – Countries,1000,49,32,89,UA,Ukraine,2030,27771
+Population,urban_population_countries,Urban population – Countries,1000,49,32,89,UA,Ukraine,2035,27123
+Population,urban_population_countries,Urban population – Countries,1000,49,32,89,UA,Ukraine,2040,26403
+Population,urban_population_countries,Urban population – Countries,1000,49,32,89,UA,Ukraine,2045,25600
+Transport,passengers_carried_by_air,Passengers carried by air,1000,49,32,89,UA,Ukraine,2004,1924
+Transport,goods_hauled_by_railways,Goods hauled by railways (million passengers/km),n,49,32,89,UA,Ukraine,1999,233961
+Transport,total_railway_route,Total railway route,km,49,32,89,UA,Ukraine,1999,22011
+Population,population_capital_cities,Population of capital cities,1000,50.433367,30.516628,89,UA,Kiev,2007,2709
+Slum dwellers,public_tap_pump_borehole,Access to public tap/pump/borehole,p,49,32,89,UA,Ukraine,2005,1.1
+Slum dwellers,public_tap_pump_borehole,Access to public tap/pump/borehole,p,49,32,89,UA,Ukraine,2007,2
+Resilience,number_of_refugees_by_country_of_asylum,Number of refugees by country of asylum,n,49,32,89,UA,Ukraine,2005,2346
+Resilience,loss_of_lives_in_floods,Average annual loss of lives in floods,n,49,32,89,UA,Ukraine,1980,3
+Population,has_telephone,Access to telephone,p,49,32,89,UA,Ukraine,2007,68.3
+Slum dwellers,improved_sanitation_countries,Proportion of population with access to improved sanitation – Countries,p,49,32,89,UA,Ukraine,2007,99
+Slum dwellers,improved_flush_toilet,Access to improved flush toilet,p,49,32,89,UA,Ukraine,2005,96.5
+Slum dwellers,improved_flush_toilet,Access to improved flush toilet,p,49,32,89,UA,Ukraine,2007,78.6
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,49,32,89,UA,Ukraine,1990,21.83
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,49,32,89,UA,Ukraine,2025,18.54
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,49,32,89,UA,Ukraine,1995,21.57
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,49,32,89,UA,Ukraine,2005,19.48
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,49,32,89,UA,Ukraine,1980,22.14
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,49,32,89,UA,Ukraine,2015,17.63
+Slum dwellers,improved_spring_surface_water,Access to improved spring/surface water,p,49,32,89,UA,Ukraine,2005,0.8
+Slum dwellers,improved_spring_surface_water,Access to improved spring/surface water,p,49,32,89,UA,Ukraine,2007,0.1
+Crime,recorded_bribery_rate,Recorded bribery rate per 100,000 population,n,49,32,89,UA,Ukraine,2000,4.59
+Crime,recorded_bribery_rate,Recorded bribery rate per 100,000 population,n,49,32,89,UA,Ukraine,1999,4.66
+Slum dwellers,pump_borehole,Access to pump/borehole,p,49,32,89,UA,Ukraine,2005,0.3
+Slum dwellers,pump_borehole,Access to pump/borehole,p,49,32,89,UA,Ukraine,2007,3.5
+City prosperity,cpi_equity_index,Equity Index,p,50.433367,30.516628,89,UA,Kiev,2012,0.873
+City prosperity,cpi_infrastructure_index,Infrastructure Development index,p,50.433367,30.516628,89,UA,Kiev,2012,0.968
+Slum dwellers,improved_toilet,Access to improved toilet,p,49,32,89,UA,Ukraine,2005,99
+Slum dwellers,improved_toilet,Access to improved toilet,p,49,32,89,UA,Ukraine,2007,99
+City prosperity,cpi_5_dimensions,City Prosperity Index with 5 dimensions,p,50.433367,30.516628,89,UA,Kiev,2012,0.798
+Population,population,Total population,1000,49,32,89,UA,Ukraine,2050,30937
+Population,population,Total population,1000,49,32,89,UA,Ukraine,1950,37298
+Population,population,Total population,1000,49,32,89,UA,Ukraine,1955,40099
+Population,population,Total population,1000,49,32,89,UA,Ukraine,1960,42783
+Population,population,Total population,1000,49,32,89,UA,Ukraine,1965,45341
+Population,population,Total population,1000,49,32,89,UA,Ukraine,1970,47317
+Population,population,Total population,1000,49,32,89,UA,Ukraine,1975,49016
+Population,population,Total population,1000,49,32,89,UA,Ukraine,1980,50044
+Population,population,Total population,1000,49,32,89,UA,Ukraine,1985,50889
+Population,population,Total population,1000,49,32,89,UA,Ukraine,1990,51536
+Population,population,Total population,1000,49,32,89,UA,Ukraine,1995,51016
+Population,population,Total population,1000,49,32,89,UA,Ukraine,2000,48854
+Population,population,Total population,1000,49,32,89,UA,Ukraine,2005,46918
+Population,population,Total population,1000,49,32,89,UA,Ukraine,2007,46205
+Population,population,Total population,1000,49,32,89,UA,Ukraine,2010,45170
+Population,population,Total population,1000,49,32,89,UA,Ukraine,2015,43428
+Population,population,Total population,1000,49,32,89,UA,Ukraine,2020,41679
+Population,population,Total population,1000,49,32,89,UA,Ukraine,2025,39879
+Population,population,Total population,1000,49,32,89,UA,Ukraine,2030,38053
+Population,population,Total population,1000,49,32,89,UA,Ukraine,2035,36245
+Population,population,Total population,1000,49,32,89,UA,Ukraine,2040,34468
+Population,population,Total population,1000,49,32,89,UA,Ukraine,2045,32702
+Slum dwellers,urban_population_share_national,Share in national urban population,p,48.000002,37.82998,89,UA,Donetsk,2000,3.1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,48.000002,37.82998,89,UA,Donetsk,2010,3.1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,48.000002,37.82998,89,UA,Donetsk,2020,3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,49.999983,36.250025,89,UA,Kharkiv,2000,4.5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,49.999983,36.250025,89,UA,Kharkiv,2010,4.7
+Slum dwellers,urban_population_share_national,Share in national urban population,p,49.999983,36.250025,89,UA,Kharkiv,2020,4.7
+Slum dwellers,urban_population_share_national,Share in national urban population,p,47.857297,35.176809,89,UA,Zaporizhzhya,2000,2.5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,47.857297,35.176809,89,UA,Zaporizhzhya,2010,2.5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,47.857297,35.176809,89,UA,Zaporizhzhya,2020,2.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,50.433367,30.516628,89,UA,Kiev,2000,7.9
+Slum dwellers,urban_population_share_national,Share in national urban population,p,50.433367,30.516628,89,UA,Kiev,2010,9
+Slum dwellers,urban_population_share_national,Share in national urban population,p,50.433367,30.516628,89,UA,Kiev,2020,9.7
+Slum dwellers,urban_population_share_national,Share in national urban population,p,46.490016,30.710001,89,UA,Odessa,2000,3.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,46.490016,30.710001,89,UA,Odessa,2010,3.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,46.490016,30.710001,89,UA,Odessa,2020,3.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,48.479972,35.000024,89,UA,Dnipropetrovsk,2000,3.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,48.479972,35.000024,89,UA,Dnipropetrovsk,2010,3.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,48.479972,35.000024,89,UA,Dnipropetrovsk,2020,3
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,49,32,89,UA,Ukraine,1990,21.5
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,49,32,89,UA,Ukraine,1995,19.8
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,49,32,89,UA,Ukraine,2000,19.2
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,49,32,89,UA,Ukraine,1970,30
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,49,32,89,UA,Ukraine,2005,19.7
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,49,32,89,UA,Ukraine,2007,19.7
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,49,32,89,UA,Ukraine,1980,25.4
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,49,32,89,UA,Ukraine,1990,24.9
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,49,32,89,UA,Ukraine,1995,22.7
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,49,32,89,UA,Ukraine,2000,22.5
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,49,32,89,UA,Ukraine,1970,36.1
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,49,32,89,UA,Ukraine,2005,24.2
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,49,32,89,UA,Ukraine,2007,24.2
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,49,32,89,UA,Ukraine,1980,30
+Population,rural_population,Rural population,1000,49,32,89,UA,Ukraine,2050,6227
+Population,rural_population,Rural population,1000,49,32,89,UA,Ukraine,1950,24057
+Population,rural_population,Rural population,1000,49,32,89,UA,Ukraine,1955,23509
+Population,rural_population,Rural population,1000,49,32,89,UA,Ukraine,1960,22764
+Population,rural_population,Rural population,1000,49,32,89,UA,Ukraine,1965,22376
+Population,rural_population,Rural population,1000,49,32,89,UA,Ukraine,1970,21373
+Population,rural_population,Rural population,1000,49,32,89,UA,Ukraine,1975,20396
+Population,rural_population,Rural population,1000,49,32,89,UA,Ukraine,1980,19170
+Population,rural_population,Rural population,1000,49,32,89,UA,Ukraine,1985,17974
+Population,rural_population,Rural population,1000,49,32,89,UA,Ukraine,1990,17132
+Population,rural_population,Rural population,1000,49,32,89,UA,Ukraine,1995,16860
+Population,rural_population,Rural population,1000,49,32,89,UA,Ukraine,2000,16051
+Population,rural_population,Rural population,1000,49,32,89,UA,Ukraine,2005,15112
+Population,rural_population,Rural population,1000,49,32,89,UA,Ukraine,2007,14841
+Population,rural_population,Rural population,1000,49,32,89,UA,Ukraine,2010,14404
+Population,rural_population,Rural population,1000,49,32,89,UA,Ukraine,2015,13550
+Population,rural_population,Rural population,1000,49,32,89,UA,Ukraine,2020,12563
+Population,rural_population,Rural population,1000,49,32,89,UA,Ukraine,2025,11460
+Population,rural_population,Rural population,1000,49,32,89,UA,Ukraine,2030,10282
+Population,rural_population,Rural population,1000,49,32,89,UA,Ukraine,2035,9122
+Population,rural_population,Rural population,1000,49,32,89,UA,Ukraine,2040,8065
+Population,rural_population,Rural population,1000,49,32,89,UA,Ukraine,2045,7103
+Population,urban_population_cities,Urban population – Cities,1000,48.000002,37.82998,89,UA,Donetsk,2000,1026
+Population,urban_population_cities,Urban population – Cities,1000,48.000002,37.82998,89,UA,Donetsk,2010,965
+Population,urban_population_cities,Urban population – Cities,1000,48.000002,37.82998,89,UA,Donetsk,2020,905
+Population,urban_population_cities,Urban population – Cities,1000,49.999983,36.250025,89,UA,Kharkiv,2000,1484
+Population,urban_population_cities,Urban population – Cities,1000,49.999983,36.250025,89,UA,Kharkiv,2010,1453
+Population,urban_population_cities,Urban population – Cities,1000,49.999983,36.250025,89,UA,Kharkiv,2020,1431
+Population,urban_population_cities,Urban population – Cities,1000,47.857297,35.176809,89,UA,Zaporizhzhya,2000,822
+Population,urban_population_cities,Urban population – Cities,1000,47.857297,35.176809,89,UA,Zaporizhzhya,2010,775
+Population,urban_population_cities,Urban population – Cities,1000,47.857297,35.176809,89,UA,Zaporizhzhya,2020,733
+Population,urban_population_cities,Urban population – Cities,1000,50.433367,30.516628,89,UA,Kiev,2000,2606
+Population,urban_population_cities,Urban population – Cities,1000,50.433367,30.516628,89,UA,Kiev,2010,2805
+Population,urban_population_cities,Urban population – Cities,1000,50.433367,30.516628,89,UA,Kiev,2020,2943
+Population,urban_population_cities,Urban population – Cities,1000,46.490016,30.710001,89,UA,Odessa,2000,1037
+Population,urban_population_cities,Urban population – Cities,1000,46.490016,30.710001,89,UA,Odessa,2010,1009
+Population,urban_population_cities,Urban population – Cities,1000,46.490016,30.710001,89,UA,Odessa,2020,1034
+Population,urban_population_cities,Urban population – Cities,1000,48.479972,35.000024,89,UA,Dnipropetrovsk,2000,1077
+Population,urban_population_cities,Urban population – Cities,1000,48.479972,35.000024,89,UA,Dnipropetrovsk,2010,1003
+Population,urban_population_cities,Urban population – Cities,1000,48.479972,35.000024,89,UA,Dnipropetrovsk,2020,913
+City prosperity,cpi_productivity_index,Productivity index,p,50.433367,30.516628,89,UA,Kiev,2012,0.579
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,49,32,89,UA,Ukraine,1985,5
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,49,32,89,UA,Ukraine,2020,3
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,49,32,89,UA,Ukraine,1990,5
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,49,32,89,UA,Ukraine,1960,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,49,32,89,UA,Ukraine,2025,3
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,49,32,89,UA,Ukraine,1995,5
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,49,32,89,UA,Ukraine,1965,2
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,49,32,89,UA,Ukraine,2000,5
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,49,32,89,UA,Ukraine,1970,2
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,49,32,89,UA,Ukraine,2005,4
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,49,32,89,UA,Ukraine,1975,2
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,49,32,89,UA,Ukraine,2010,3
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,49,32,89,UA,Ukraine,1980,5
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,49,32,89,UA,Ukraine,2015,3
+Resilience,loss_of_lives_in_floods_per_million_population,Number of loss of lives in floods per million population,n,49,32,89,UA,Ukraine,1980,0.06
+Population,percentage_of_international_migrants,Percentage of international migrants,p,49,32,89,UA,Ukraine,2000,14.1
+Population,percentage_of_international_migrants,Percentage of international migrants,p,49,32,89,UA,Ukraine,1995,13.7
+Population,percentage_of_international_migrants,Percentage of international migrants,p,49,32,89,UA,Ukraine,2005,14.7
+City prosperity,cpi_quality_of_live_index,Quality of life index,p,50.433367,30.516628,89,UA,Kiev,2012,0.757
+Health,hiv_prevalence_15_to_49_year,HIV prevalence among population 15-49 year,p,49,32,89,UA,Ukraine,2001,1.2
+Health,hiv_prevalence_15_to_49_year,HIV prevalence among population 15-49 year,p,49,32,89,UA,Ukraine,2003,1.4
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,49,32,89,UA,Ukraine,1990,21.5
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,49,32,89,UA,Ukraine,1995,19.8
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,49,32,89,UA,Ukraine,2000,19.2
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,49,32,89,UA,Ukraine,1970,30
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,49,32,89,UA,Ukraine,2005,19.7
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,49,32,89,UA,Ukraine,2007,19.7
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,49,32,89,UA,Ukraine,1980,25.4
+Slum dwellers,durable_housing_urban_population_countries,Proportion of urban population with durable housing – Countries,p,49,32,89,UA,Ukraine,2007,71.6
+Streets,total_road_network,Total road network (in km),n,49,32,89,UA,Ukraine,2000,169323
+Resilience,refugees_by_country_of_origin,Number of refugees by country of origin,n,49,32,89,UA,Ukraine,2005,84213
