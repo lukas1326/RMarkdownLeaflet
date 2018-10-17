@@ -41,6 +41,7 @@ m <- leaflet() %>%
                          ) %>%
 
         addPulseMarkers(lng = risk3$Longitude,lat=risk3$Latitude,label = risk3$V_Name,
-                        icon = makePulseIcon(heartbeat = 0.5))
+                        icon = makePulseIcon(heartbeat = 0.5)) %>% 
+        addLegend("topright",labels  = c("NULL","1","2","3"),colors = c("purple","orange","yellow","red"),title = "Risk (3- the heighest)")
 m
 ```
