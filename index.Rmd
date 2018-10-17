@@ -20,8 +20,17 @@ download.file(url, dest="data/volcano.csv")
 vol <- read.csv("data/volcano.csv")
 
 ```
-```{r EDA}
-
+```{r map}
+library(leaflet)
+library(tidyverse)
+library(leaflet.extras)
+risk3 <- vol %>% filter(risk=="3")
+m <- leaflet() %>%
+        addProviderTiles("Esri.WorldImagery") %>% 
+        ##addMarkers(lng=vol$Longitude,lat=vol$Latitude,popup = vol$V_Name) %>% 
+        addPulseMarkers(lng = risk3$Longitude,lat=risk3$Latitude,label = risk3$V_Name,
+                        icon = makePulseIcon(heartbeat = 0.5))
+m
 ```
 ## Including Plots
 
