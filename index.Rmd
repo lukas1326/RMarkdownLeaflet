@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE,warning = FALSE,message = FALSE)
 ```
 
 ## Volcano - population Exposure Index
@@ -25,19 +25,22 @@ library(leaflet)
 library(tidyverse)
 library(leaflet.extras)
 risk3 <- vol %>% filter(risk=="3")
+risk2 <- vol %>% filter(risk=="2")
+risk1 <- vol %>% filter(risk=="1")
+risk0 <- vol %>% filter(risk=="NULL")
 m <- leaflet() %>%
         addProviderTiles("Esri.WorldImagery") %>% 
-        ##addMarkers(lng=vol$Longitude,lat=vol$Latitude,popup = vol$V_Name) %>% 
+        addCircleMarkers(lng=risk0$Longitude,lat=risk0$Latitude,label = risk0$V_Name,
+                         stroke = FALSE,fillOpacity = .8,fillColor = "purple",radius = 5
+                         ) %>% 
+        addCircleMarkers(lng=risk1$Longitude,lat=risk1$Latitude,label = risk1$V_Name,
+                         stroke = FALSE,fillOpacity = .8,fillColor = "orange",radius = 6
+                         ) %>% 
+        addCircleMarkers(lng=risk2$Longitude,lat=risk2$Latitude,label = risk2$V_Name,
+                         stroke = FALSE,fillOpacity = .8,fillColor = "yellow"
+                         ) %>%
+
         addPulseMarkers(lng = risk3$Longitude,lat=risk3$Latitude,label = risk3$V_Name,
                         icon = makePulseIcon(heartbeat = 0.5))
 m
 ```
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
