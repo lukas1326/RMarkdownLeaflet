@@ -1,5 +1,5 @@
 ---
-title: "RMarkdownLeaflet"
+title: "Volcano Risk from Global Volcano Model"
 author: "Olga Lukasevych"
 date: "October 16, 2018"
 output: html_document
@@ -20,13 +20,13 @@ knitr::opts_chunk$set(echo = FALSE,warning = FALSE,message = FALSE)
 A comprehensive set of information on global volcanic hazard, historical events, population exposure, vulnerability, and impact has been provided to GAR15 by Global Volcano Model (GVM) and The International Association of Volcanology and Chemistry of the Earth’s Interior (IAVCEI). This work is the first of its kind in global coverage and level of contribution from a wide network of experts and institutions around the world.https://data.humdata.org/dataset/volcano-population-exposure-index-gvm
 
 ```{r load data}
-library(downloader)
+
 url <- "https://data.humdata.org/dataset/a60ac839-920d-435a-bf7d-25855602699d/resource/e3b1ecf0-ec47-49f7-9011-6bbb7403ef6d/download/volcano.csv"
 download.file(url, dest="data/volcano.csv") 
 vol <- read.csv("data/volcano.csv")
 
 ```
-```{r map}
+```{r map,fig.width=12,fig.height=10}
 library(leaflet)
 library(tidyverse)
 library(leaflet.extras)
@@ -35,6 +35,7 @@ vol$content <- paste(
         "<b>",vol$V_Name,"</b>","<br>",
         "Country:",vol$Country
 )
+vol <- vol %>% filter(!vol$V_Name=="Unnamed")
 risk3 <- vol %>% filter(risk=="3")
 risk2 <- vol %>% filter(risk=="2")
 risk1 <- vol %>% filter(risk=="1")
@@ -54,6 +55,6 @@ m <- leaflet() %>%
 
         addPulseMarkers(lng = risk3$Longitude,lat=risk3$Latitude,label = lapply(risk3$content,HTML),
                         icon = makePulseIcon(heartbeat = 0.5)) %>% 
-        addLegend("topright",labels  = c("NULL","1","2","3"),colors = c("purple","orange","yellow","red"),title = "Risk (3- the heighest)")
+        addLegend("topright",labels  = c("0","1","2","3"),colors = c("purple","orange","yellow","red"),title = "Risk (3- the highest risk)")
 m
 ```
